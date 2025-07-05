@@ -152,7 +152,6 @@ noindex: false
 
   </tbody>
 </table>
-<p class="d-block">(Remaining 9900000 WMT is minted based on ecosystem growth and governance decisions)</p>
 
 <h3 class="mt-5">Token Distribution</h3>
 <hr/>
@@ -191,6 +190,9 @@ noindex: false
       </div>
   </section>
 
+ <section class="bg-dark mt-0">
+<iframe height="100" width="100%" style="height:calc(100vh - 0px) ! important;" id="geckoterminal-embed" title="GeckoTerminal Embed" src="https://www.geckoterminal.com/bsc/pools/0xc45a59c1087f3a5a1b614b72a8d97610bd8a927a?embed=1&info=1&swaps=1&grayscale=0&light_chart=1&chart_type=price&resolution=15m" frameborder="0" allow="clipboard-write" allowfullscreen></iframe>
+</section>
 
   <section class="bg-primary py-5 mt-0">
       <div class="container">
