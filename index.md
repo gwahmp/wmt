@@ -13,7 +13,7 @@ noindex: false
                     <small>Wikimint Token (WMT)</small>
                     <h1>Power the Future of Digital Communities</h1>
                     <p>A decentralized utility token powering online communities, developer platforms, and community-driven security solutions. Reward creators, engage communities, and build decentralized ecosystems, all with one powerful BEP-20 token, Wikimint (WMT).</p>
-                    <a href="/wmt/whitepaper.pdf" target="_blank" class="btn btn-primary btn-lg"><small>Whitepaper</small></a> <a href="#disclaimer" class="btn btn-primary-outline border-primary btn-lg text-primary"><small>Disclaimer</small></a>
+                    <a href="/wmt/whitepaper.pdf" target="_blank" class="btn btn-primary "><small>Whitepaper</small></a> <button  class="btn add-token btn-outline-primary"><small>Add to MetaMask <img class="ms-2" src="/wmt/assets/images/MetaMask-icon-fox.svg" alt="Wallet Icon" width="20" height="20"></small></button>
                 </div>
             </div>
                     <div class="col-md-6">
