@@ -201,6 +201,7 @@ noindex: false
            <span class="lead fw-medium">What is WMT (Wikimint Token)?</span>
           </button>
         </h3>
+        </h3>
         <div id="flush-collapseOne" class="accordion-collapse collapse show" data-bs-parent="#accordionFlushExample">
           <div class="accordion-body">
           <p>WMT is a decentralized BEP-20 token deployed on the Binance Smart Chain (BSC). It was created to reward community engagement on Wikimint.com and promote educational and creative participation. It is not an investment, and it has no financial guarantee.</p>
